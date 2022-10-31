@@ -19,3 +19,21 @@ p.rs{
     color:rebeccapurple;
     background-color: yellow;
 }
+
+/*Child Selectors*/
+
+p>a{
+    color:green;
+}
+
+/*Descent Selector*/
+
+div a{
+    color:orange;
+}
+
+/*Attribute Selector*/
+
+input[type="text"]{
+    color: red;
+}
