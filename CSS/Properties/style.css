@@ -7,3 +7,17 @@
     font-style: italic;
     text-decoration: underline;
 }
+div{
+    width: 400px;
+
+}
+.a{
+    text-align: left;
+
+}
+.b{
+    text-align: right;
+}
+.c{
+    text-align:center;
+}
