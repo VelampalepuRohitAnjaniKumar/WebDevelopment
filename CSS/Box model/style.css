@@ -1,3 +1,44 @@
 .a{
     border-style: solid;
+    border-color: aquamarine;
+    border-left: solid 5px greenyellow;
+    padding: 10px 40px 20px 5px;
+    height: 100px;
+    width: 300px;
+
+}
+.b{
+    border-width: 6px;
+    background-color: lightblue;
+    border-style: solid;
+    border-left: solid 5px greenyellow;
+    border-right: solid 5px blueviolet;
+    padding : 20px;
+    margin : 100px 200px ;
+}
+.rs{
+    box-sizing: content-box;
+    border-width: 6px;
+    background-color: lightblue;
+    border-style: solid;
+
+}
+div.li{
+    border: solid 3px black;
+    width:400px;
+    text-align: center;
+    
+}
+a{
+    border: solid 3px red;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    text-shadow: 2px;
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 20px;
 }
