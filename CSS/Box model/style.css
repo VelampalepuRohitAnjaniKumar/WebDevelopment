@@ -49,4 +49,10 @@ a{
     position: relative;
     
     left: 50px;
+    z-index: 2;
+}
+.e{
+    position: relative;
+    left: 50px;
+    z-index: 1;
 }
