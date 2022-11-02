@@ -21,6 +21,9 @@
     border-width: 6px;
     background-color: lightblue;
     border-style: solid;
+    position: absolute;
+    bottom: 50px;
+    right: 10px;
 
 }
 div.li{
@@ -41,4 +44,9 @@ a{
     font-style: italic;
     font-weight: bold;
     padding-left: 20px;
+}
+.ro{
+    position: relative;
+    
+    left: 50px;
 }
