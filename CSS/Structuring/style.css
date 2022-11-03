@@ -8,7 +8,7 @@
     font-size: 0px;
 }
 .col{
-    border: solid 2px black;
+    border: solid 1px black;
     display: inline-block;
     height: 100%;
     width: 33.33%;
@@ -16,7 +16,7 @@
 }
 
 .col2{
-    border: solid 2px black;
+    border: solid 1px black;
     display: inline-block;
     height: 100%;
     width: 50%;
@@ -29,7 +29,7 @@
     width: 100%;
 }
 .col3{
-    border: solid 2px black;
+    border: solid 1px black;
     display: inline-block;
     height: 100%;
     width: 33.33%;
@@ -54,7 +54,7 @@
     width: 100%;
 }
 .col4{
-    border: solid 2px black;
+    border: solid 1px black;
     display: inline-block;
     height: 100%;
     width: 50%;
